@@ -1,0 +1,24 @@
+1641065357339	geckodriver	INFO	Listening on 127.0.0.1:63216
+1641065360427	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63217" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofilel0rNDz"
+1641065361053	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofilel0rNDz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63217/devtools/browser/7e1008b6-df1a-4789-9468-7eb969cf6eee
+1641065364297	Marionette	INFO	Listening on port 63222
+1641065364661	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641065368786	Marionette	INFO	Stopped listening on port 63222
+1641067269381	geckodriver	INFO	Listening on 127.0.0.1:63868
+1641067272461	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63869" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofileqVN2KZ"
+1641067272792	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofileqVN2KZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63869/devtools/browser/4ae5ac26-4c0c-47c5-ba6a-ce21aefe36e5
+1641067275732	Marionette	INFO	Listening on port 63874
+1641067276141	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641067280009	Marionette	INFO	Stopped listening on port 63874
+1641081657962	geckodriver	INFO	Listening on 127.0.0.1:49409
+1641081661064	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49410" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofile6KCcBd"
+1641081661529	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofile6KCcBd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49410/devtools/browser/b002f153-bba9-4dd5-a84f-55c3827e473b
+1641081664482	Marionette	INFO	Listening on port 49415
+1641081664738	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641081669096	Marionette	INFO	Stopped listening on port 49415
