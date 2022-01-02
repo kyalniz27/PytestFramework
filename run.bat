@@ -1,0 +1,1 @@
+python -m pytest -v -s tests/test_login_test.py --browser chrome
